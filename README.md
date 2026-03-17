@@ -40,3 +40,29 @@ And provides:
 ---
 
 ## 📂 Project Structure
+- ats_checker.ipynb → Main notebook  
+- result.txt → Output file  
+
+---
+
+## 🎯 Why this Project?
+- Solves real-world problem (ATS filtering)
+- Useful for students preparing for placements
+- Demonstrates NLP + practical application
+
+---
+
+## 📌 Future Improvements
+- PDF resume upload
+- Web app using Streamlit
+- AI-based suggestions using LLM
+
+---
+
+## 👨‍💻 Author
+**Rithviknathan M**  
+B.Tech CSE (AIML) @ SRM University  
+
+---
+
+⭐ If you like this project, give it a star!

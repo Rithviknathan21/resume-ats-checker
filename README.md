@@ -12,7 +12,7 @@ It compares:
 And provides:
 - 📊 Match percentage
 - ❌ Missing keywords
-- 💡 Suggestions for improvement
+- 💡 Suggestions for improvements
 
 ---
 

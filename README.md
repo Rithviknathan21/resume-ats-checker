@@ -11,7 +11,7 @@ It compares:
 
 And provides:
 - 📊 Match percentage
-- ❌ Missing keywords
+- ❌ Missing keyword
 - 💡 Suggestions for improvement
 
 ---

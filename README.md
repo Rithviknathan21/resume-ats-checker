@@ -6,7 +6,7 @@ A simple NLP-based tool that analyzes how well a resume matches a job descriptio
 This project simulates an **Applicant Tracking System (ATS)** used by companies to filter resumes based on keywords.
 
 It compares:
-- Resume content
+- Resume contents
 - Job description
 
 And provides:
